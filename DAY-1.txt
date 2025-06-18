@@ -1,1 +1,9 @@
 Learning git commands
+git clone branch_name
+git checkout -b new_branch_name
+git checkout branch_name
+git status
+git add .
+git add file_name
+git push origin branch_name
+git commit -m commit_message
